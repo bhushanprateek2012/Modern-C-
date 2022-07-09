@@ -34,3 +34,12 @@ int main()
 	Print(&pci);
 	return 0;
 }
+
+
+//Function Overloading is a example of Static Polymorphism.
+//Here linker identifies the relevant function through Name Mangling. i.e. Each function is assigned a 
+//seperate function name.
+//Mangled names can be seen in the map file. 
+//Map file can be generated through settings in Dev C++  and VS Code.
+//Name Mangling can be stopped by using extern "C" while declaring and defining the function. 
+//
