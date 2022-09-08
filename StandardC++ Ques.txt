@@ -1,0 +1,8 @@
+The main ones that you need to explore in the context of "fast and efficient" are:
+-- constexpr
+-- Move semantics and rvalue references
+-- Templates metaprogramming and variadic templates
+-- smart pointers
+-- Standardization of STL library and algorithms
+-- introducing thread library as part of STL
+-- auto type deduction and uniform initialization..
